@@ -20,7 +20,7 @@ require (
 	github.com/shirou/gopsutil/v3 v3.23.5
 	github.com/spf13/viper v1.16.0
 	github.com/stretchr/testify v1.8.4
-	github.com/xcode75/xcore v1.8.3
+	github.com/xmplusdev/xray-core v1.8.10
 	golang.org/x/crypto v0.11.0
 	golang.org/x/net v0.12.0
 	golang.org/x/time v0.3.0
